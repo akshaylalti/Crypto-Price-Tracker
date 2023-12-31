@@ -1,27 +1,51 @@
-# CryptoCheckerYt
+# Crypto Price Tracker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+## Overview
+Crypto Price Tracker is a web application built using Angular that allows users to track the real-time prices of various cryptocurrencies. Stay updated on the latest market trends and make informed decisions.
 
-## Development server
+## Features
+- **Real-time Price Tracking:** Get live updates on cryptocurrency prices.
+- **Multi-currency Support:** View prices in different fiat currencies.
+- **User-friendly Interface:** Intuitive design for easy navigation.
+- **Responsive Design:** Accessible on various devices, including desktop and mobile.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Technologies Used
+- Angular
+- [List any additional libraries or APIs used]
 
-## Code scaffolding
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/crypto-price-tracker.git
+   cd crypto-price-tracker
+   ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## Build
+3. Run the application:
+   ```bash
+   ng serve
+   ```
+   Open your browser and navigate to `http://localhost:4200/`.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Usage
+[Include instructions on how to use the application. Explain any features, settings, or functionalities.]
 
-## Running unit tests
+## Screenshots
+[Add screenshots of the application to provide a visual overview.]
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Contributing
+If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## Running end-to-end tests
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contact
+akshayakc94@gmail.com
 
-## Further help
+Happy tracking! 🚀
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
